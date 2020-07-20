@@ -1,1 +1,1 @@
-# RS6-rs
+# CSGOAim-rs
